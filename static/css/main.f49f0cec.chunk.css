@@ -1,0 +1,2 @@
+.toDoList{list-style-type:none;font:18pt Arial;color:#222}.toDoList .done{text-decoration:line-through;background-color:#ebe9e9}.toDoList .important .fa-star{color:#0482f8}.toDoList .done .fa-star{color:#585858}.toDoList .important{font-weight:700;font-style:italic;color:#0482f8}.badge,li{cursor:pointer}.app{margin-left:300px;margin-right:300px;margin-top:50px;width:100hv}@media (max-width:998px){.app{margin-left:0;margin-right:0}}
+/*# sourceMappingURL=main.f49f0cec.chunk.css.map */
